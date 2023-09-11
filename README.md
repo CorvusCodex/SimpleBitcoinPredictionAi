@@ -8,6 +8,7 @@ SimBit - Simple Bitcoin Prediction Ai. This Ai Model uses historical Bitcoin pri
 The model is trained on data downloaded from Yahoo Finance using the `yfinance` library, and predictions are made using a linear regression Ai model from `sklearn`.
 
 ## For people without technical experience you can buy the compiled standalone application for windows from here:
+https://www.buymeacoffee.com/CorvusCodex/e/166684
 
 ## Installation
 
