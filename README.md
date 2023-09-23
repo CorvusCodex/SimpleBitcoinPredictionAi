@@ -10,6 +10,9 @@ The model is trained on data downloaded from Yahoo Finance using the `yfinance` 
 ## For people without technical experience you can buy the compiled standalone application for windows from here:
 https://www.buymeacoffee.com/CorvusCodex/e/166684
 
+## For people who need Financial Forecast Ai (Stocks,currencies...) buy application for windows from here:
+https://www.buymeacoffee.com/CorvusCodex/e/169645
+
 ## Installation
 
 Before running the script, you need to install the necessary Python libraries. You can do this with pip:
